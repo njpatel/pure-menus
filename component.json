@@ -1,0 +1,17 @@
+{
+  "name": "pure-menus",
+  "repo": "njpatel/pure-menus",
+  "description": "A small CSS module for responsive menus that you can use in every web project. http://purecss.io/menus",
+  "version": "3.0.0",
+  "keywords": [
+    "pure",
+    "menu",
+    "menus",
+    "css",
+    "yui"
+  ],
+  "license": "BSD",
+  "styles": [
+    "menus.css"
+  ]
+}
